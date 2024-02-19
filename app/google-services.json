@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223496549714",
+    "project_id": "omidom",
+    "storage_bucket": "omidom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223496549714:android:c69121bb15caf1be10f68b",
+        "android_client_info": {
+          "package_name": "com.example.omidom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223496549714-942hq22400kfn7gllehmnn4it1g727ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omidom",
+            "certificate_hash": "3faf9e250c38ddb66f1aabe39a34d5734c2a2b7e"
+          }
+        },
+        {
+          "client_id": "223496549714-vme5v8dn2klcfta11ra5nba18vpkgg67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXPdJWP9URKfhPGd8eACt0msN1TRtKRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223496549714-vme5v8dn2klcfta11ra5nba18vpkgg67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

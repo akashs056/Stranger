@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         database=FirebaseDatabase.getInstance();
 
         database.getReference().child("Users")
-                        .child(user.getUid()).addListenerForSingleValueEvent(new ValueEventListener() {
+                        .child(user.getUid()).addValueEventListener(new ValueEventListener() {
                     @SuppressLint("SetTextI18n")
                     @Override
                     public void onDataChange(@NonNull DataSnapshot snapshot) {
@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, RewardActivity.class));
             }
         });
-
 
     }
 

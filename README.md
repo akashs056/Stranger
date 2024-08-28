@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/akashs056/Photos/blob/main/omidomBanner.png" width="auto" height="auto" alt="LibreTube">
+  <img src="https://github.com/akashs056/OmiDom/blob/master/Images/Readme%20Images/omidomBanner.png" width="auto" height="auto" alt="LibreTube">
 
 
 </div>
@@ -18,10 +18,10 @@ Screenshots
 
 <div style="width:100%; display:flex; justify-content:space-between;">
 
-[<img src="https://github.com/akashs056/Photos/blob/main/omidom1.jpg" width=20% alt="Home">](fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_1.png)
-[<img src="https://github.com/akashs056/Photos/blob/main/omidom2.jpg" width=20% alt="Home">](fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2.png)
-[<img src="https://github.com/akashs056/Photos/blob/main/omidom3.jpg" width=20% alt="Subscriptions">](fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_3.png)
-[<img src="https://github.com/akashs056/Photos/blob/main/omidom4.jpg" width=20% alt="Library">](fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_4.png)
+ <img src="https://github.com/akashs056/OmiDom/blob/master/Images/Readme%20Images/omidom1.jpg" width=20% alt="Home"> 
+ <img src="https://github.com/akashs056/OmiDom/blob/master/Images/Readme%20Images/omidom2.jpg" width=20% alt="Home"> 
+ <img src="https://github.com/akashs056/OmiDom/blob/master/Images/Readme%20Images/omidom3.jpg" width=20% alt="Subscriptions"> 
+ <img src="https://github.com/akashs056/OmiDom/blob/master/Images/Readme%20Images/omidom4.jpg" width=20% alt="Library"> 
 
 </div>
 
@@ -48,6 +48,5 @@ Contributing
 
 
 <table><td>
-<a href="#start-of-content">↥ Scroll to top</a>
 </td></table>
 </div>
